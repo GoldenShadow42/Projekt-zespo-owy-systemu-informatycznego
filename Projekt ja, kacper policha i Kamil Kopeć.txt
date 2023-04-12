@@ -1,6 +1,5 @@
 Unity
 C#
-XD
 Blender
 RPG z komputerem
 
