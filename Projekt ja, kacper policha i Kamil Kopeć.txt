@@ -1,0 +1,80 @@
+Unity
+C#
+Blender
+RPG z komputerem
+
+Kamil - pomoc
+Kacper - Grafika
+Oskar - Kod
+
+Funkcjonalne:
+- tworzenie postaci predefiniowanej 
+- umieranie
+- odradzanie 
+- teleportacja
+- rozpoczencie gry
+- zakończenie gry (good endning)  poprawne wykonanie misji, zakończenie fabularne gry
+- zakończenie gry (bad ending) niepowodzenie wykonania misji, zgon
+- rozmowa z npc
+- walka z ai
+- poruszanie się
+- stanie w miejscu  
+- spadanie 
+- skakanie
+- zapisanie progresji gracza
+- wczytanie progresji gry
+- autozapis
+- "menu"
+- zmiana głośności 
+- zmiana obrazu (windowed, fullscreen, borderless)
+- 
+
+- napisy
+- easter eggs
+- zmiana klawiszologi
+- spawn point
+
+
+Niefunkcjonalne:
+- Windows 10 64 bit 
+- minimalne ustawienia systemowe
+- polecane ustawienia systemowe
+- karta graficzna zgodna z Dx9
+- procesor x64
+- ram 8 gb
+
+
+To do:
+- 1 mapa do świata
+- 2 mapa do świata
+- 3 mapa do świata
+- postać główna 
+- NPC
+- przeciwnicy
+- fabuła
+- misja główna, misje poboczne
+- poruszanie się
+- interakcja
+- menu główne (grafika)
+- rozpoczencie gry
+- zakończenia gry
+- ustawienia 
+- walka
+- easter eggi
+- teleportacja
+- var char
+- spawn point
+
+
+
+
+Harmonogram:
+12.04.2023 - 26.04.2023: 
+26.04.2023 - 10.05.2023:
+10.05.2023 - 17.05.2023:
+17.05.2023 - 24.05.2023:
+24.05.2023 - 31.05.2023:
+31.05.2023 - 15.06.2023: 
+15.06.2023 - 20.06.2023:
+
+
