@@ -16,7 +16,7 @@ Funkcjonalne:
 - zakończenie gry (good endning)  poprawne wykonanie misji, zakończenie fabularne gry
 - zakończenie gry (bad ending) niepowodzenie wykonania misji, zgon
 - rozmowa z npc
-- walka z ai
+- walka z ai ????
 - poruszanie się
 - stanie w miejscu  
 - spadanie 
@@ -26,12 +26,12 @@ Funkcjonalne:
 - autozapis
 - "menu"
 - zmiana głośności 
-- zmiana obrazu (windowed, fullscreen, borderless)
-- 
+- zmiana obrazu (windowed, fullscreen, borderless) ???
+
 
 - napisy
 - easter eggs
-- zmiana klawiszologi
+- zmiana klawiszologi  ???
 - spawn point
 
 
@@ -39,7 +39,7 @@ Niefunkcjonalne:
 - Windows 10 64 bit 
 - minimalne ustawienia systemowe
 - polecane ustawienia systemowe
-- karta graficzna zgodna z Dx9
+- karta graficzna zgodna z Dx11
 - procesor x64
 - ram 8 gb
 
@@ -76,5 +76,3 @@ Harmonogram:
 24.05.2023 - 31.05.2023:
 31.05.2023 - 15.06.2023: 
 15.06.2023 - 20.06.2023:
-
-
