@@ -180,6 +180,58 @@ informacja o questach i czy zaliczone
 }
 
 
+{
+  "levels": [
+    {
+      "level": 1,
+      "experienceRequired": 0,
+      "maxHealth": 100,
+      "attackPower": 10,
+      "defense": 5
+    },
+    {
+      "level": 2,
+      "experienceRequired": 100,
+      "maxHealth": 120,
+      "attackPower": 12,
+      "defense": 6
+    },
+    {
+      "level": 3,
+      "experienceRequired": 250,
+      "maxHealth": 150,
+      "attackPower": 15,
+      "defense": 8
+    },
+    {
+      "level": 4,
+      "experienceRequired": 500,
+      "maxHealth": 180,
+      "attackPower": 18,
+      "defense": 10
+    },
+    {
+      "level": 5,
+      "experienceRequired": 1000,
+      "maxHealth": 200,
+      "attackPower": 20,
+      "defense": 12
+    }
+  ]
+}
+W tym przykładzie baza danych zawiera tablicę obiektów "levels", reprezentujących poszczególne poziomy postaci w grze. Każdy poziom ma następujące dane: numer poziomu (level), wymaganą ilość doświadczenia (experienceRequired), maksymalne zdrowie (maxHealth), siłę ataku (attackPower) oraz obronę (defense).
+
+Gracz zaczyna grę na poziomie 1, gdzie wymagane doświadczenie wynosi 0. Aby awansować na kolejny poziom, gracz musi zdobyć określoną ilość doświadczenia, która jest określona dla każdego poziomu.
+
+Ten schemat można rozszerzać o dodatkowe pola, takie jak umiejętności, zdolności lub premie, które gracz otrzymuje na kolejnych poziomach.
+
+
+
+
+
+
+
+
 
 
 
@@ -197,30 +249,30 @@ W ramach zajęć należy przygotować:
 
 W harmonogramie przedostatnie zajęcia należy zostawić na testowanie i ostatnie na prezentację.
 
-do 17 maja:
-strona menu
-ustalenie szkielet scenariusza 
-utworzenie projektu w unity i stwożenie dziąłającej kamery i poruszania(stania w miejscu) posatcią gracza
-utwozenie listy postaci
+do 18 maja:
+strona menu - kacper
+ustalenie szkielet scenariusza - kamil,oskar 
+utworzenie projektu w unity i stwożenie dziąłającej kamery i poruszania(stania w miejscu) posatcią gracza - oskar
+utwozenie listy postaci -oskar,kamil,kacper
 utwożenienie podstawy świata (graficznie)
-utwożenie postaci predefiniowanej 
+utwożenie postaci predefiniowanej - oskar
 
 
-do 24 maja:
+do 25 maja:
 skończenie pełnej podstawy mapy (budynki drzewa itp)
 stwożenie posatci gracza
 dodanie interakcji z obiektami oraz npc
-
+dodanie mechanik:
 skakanie/śmierć/spadanie/odradzanie/wczytywanie/zapisywanie/autozapis
 
-do 31 maja:
+do 1 czerwiec:
 ukończenie pełnego scenariusza gry
 ukończenie wszystkich dialogów
 dodanie do mapy contentu ( znajdzki, elementy inventory,bronie, postacie npc,handel z kupcami,esteregs)
 dodanie credits
 walka/teleportacja/zakończenie gry
 
-do 6 czerwiec:
+do 7 czerwiec:
 ukończenie wszystkich assetów graficznych i umieszczenie ich w grze
 ukończenie pełnej graficznie mapy gry
 zaimplementowanie pełnego scenariusza gry
