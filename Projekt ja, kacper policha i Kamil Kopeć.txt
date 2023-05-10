@@ -254,7 +254,7 @@ strona menu - kacper
 ustalenie szkielet scenariusza - kamil,oskar 
 utworzenie projektu w unity i stwożenie dziąłającej kamery i poruszania(stania w miejscu) posatcią gracza - oskar
 utwozenie listy postaci -oskar,kamil,kacper
-utwożenienie podstawy świata (graficznie)
+utwożenienie podstawy świata (graficznie) - kacper
 utwożenie postaci predefiniowanej - oskar
 
 
