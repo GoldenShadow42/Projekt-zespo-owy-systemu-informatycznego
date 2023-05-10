@@ -10,9 +10,9 @@ RPG z komputerem
 
 skłąd zespołu:
 
-Kamil - scenariusz, dokumentacja
-Kacper - Grafika
-Oskar - Kod
+Kamil - scenariusz, dokumentacja,tester
+Kacper - Grafika,tester
+Oskar - Kod,tester
 
 Wymagania funkcjonalne:
 - tworzenie postaci predefiniowanej 
@@ -37,7 +37,6 @@ Wymagania funkcjonalne:
 
 - wyświetlenie credits 
 - umieszczenie easter eggs
-- zmiana klawiszologi? zmiana ustawień klawiszy
 
 
 Niefunkcjonalne:
@@ -68,7 +67,117 @@ To do:
 - spawn point
 
 
-schemat bazydanych
+schemat bazydanych:
+Gracze
+
+gracz ma ID, nick, poziom doświadczenia, punkty zdobyte w grze, statystyki (takie jak liczba zabójstw, śmierci itp.) i ekwipunek.
+Przykładowy zapis:
+json
+Copy code
+{
+  "id": "player1",
+  "nick": "Gracz1",
+  "level": 10,
+  "experience": 5000,
+  "stats": {
+    "siła": 1,
+    "zręczność": 1,
+    "mądrość": 1,
+    "magia": 1,
+    "charyzma": 1 
+  },
+  "inventory": {
+    "weapons": [lista broni],
+    "items": [lista pprzedmiotów]
+  }
+}
+Bronie
+
+Każde wyposażenie ma unikalne ID, nazwę, obrażenia, celność, zasięg itp.
+Przykładowy zapis:
+json
+Copy code
+{
+  "id": "łuk1",
+  "name": "łuk 1",
+  "damage": 40,
+  "accuracy": 80,
+  "range": 200
+}
+Przedmioty
+
+Każdy przedmiot ma unikalne ID, nazwę, opis i efekt, który może wpływać na statystyki gracza.
+Przykładowy zapis:
+json
+Copy code
+{
+  "id": "medkit",
+  "name": "Medkit",
+  "description": "opis przedmiotu widoczny w grze",
+  "effect": "opis efektu który daje predmiot"
+}
+
+informacja o questach i czy zaliczone
+{
+  "quests": [
+    {
+      "id": "quest1",
+      "name": "The Lost Artifact",
+      "description": "Retrieve the ancient artifact hidden deep in the temple.",
+      "levelRequirement": 10,
+      "reward": {
+        "experience": 500,
+        "gold": 1000,
+        "items": ["sword", "shield"]
+      },
+      "objectives": [
+        {
+          "id": "objective1",
+          "type": "kill",
+          "target": "enemies",
+          "goal": 10,
+          "progress": 5
+        },
+        {
+          "id": "objective2",
+          "type": "collect",
+          "target": "artifacts",
+          "goal": 3,
+          "progress": 2
+        }
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "quest2",
+      "name": "The Cursed Forest",
+      "description": "Find the source of the curse and eliminate it.",
+      "levelRequirement": 15,
+      "reward": {
+        "experience": 800,
+        "gold": 1500,
+        "items": ["bow", "arrows"]
+      },
+      "objectives": [
+        {
+          "id": "objective1",
+          "type": "explore",
+          "target": "forest",
+          "goal": 1,
+          "progress": 0
+        },
+        {
+          "id": "objective2",
+          "type": "kill",
+          "target": "boss",
+          "goal": 1,
+          "progress": 0
+        }
+      ],
+      "isCompleted": false
+    }
+  ]
+}
 
 
 
@@ -89,10 +198,12 @@ W ramach zajęć należy przygotować:
 W harmonogramie przedostatnie zajęcia należy zostawić na testowanie i ostatnie na prezentację.
 
 do 17 maja:
+strona menu
 ustalenie szkielet scenariusza 
-utworzenie projektu w unity i stwożenie dziąłającej kamery i poruszania posatcią gracza
+utworzenie projektu w unity i stwożenie dziąłającej kamery i poruszania(stania w miejscu) posatcią gracza
 utwozenie listy postaci
 utwożenienie podstawy świata (graficznie)
+utwożenie postaci predefiniowanej 
 
 
 do 24 maja:
@@ -100,11 +211,14 @@ skończenie pełnej podstawy mapy (budynki drzewa itp)
 stwożenie posatci gracza
 dodanie interakcji z obiektami oraz npc
 
+skakanie/śmierć/spadanie/odradzanie/wczytywanie/zapisywanie/autozapis
+
 do 31 maja:
 ukończenie pełnego scenariusza gry
 ukończenie wszystkich dialogów
-dodanie do mapy contentu ( znajdzki, elementy inventory,bronie, postacie npc,handel z kupcami)
-
+dodanie do mapy contentu ( znajdzki, elementy inventory,bronie, postacie npc,handel z kupcami,esteregs)
+dodanie credits
+walka/teleportacja/zakończenie gry
 
 do 6 czerwiec:
 ukończenie wszystkich assetów graficznych i umieszczenie ich w grze
