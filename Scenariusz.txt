@@ -15,4 +15,28 @@ Koniec gry.
 Scenariusz szczegółowy:
 
 
-Lista postaci: w trakcie opracowywania
+
+Lista postaci:
+
+Rycerz - główny bohater gry, którego gracz kontroluje. Jego celem jest walka z mrocznymi siłami i pokonanie maga, który nęka mieszkańców wioski.
+Miejscowy przywódca - postać, która opowiada graczowi historię wioski i pomaga mu w odnalezieniu maga.
+Kowal - postać, która umożliwia graczowi ulepszanie swojego ekwipunku i broni.
+Czarodziej - postać, która uczy gracza różnych zaklęć i pomaga mu w walce z mrocznymi stworzeniami.
+Handlarz - postać, która sprzedaje graczowi przedmioty, takie jak leki, jedzenie i narzędzia.
+Mieszkańcy wioski - różne postacie, z którymi gracz może porozmawiać, zdobyć informacje i wykonywać zadania, które oferują.
+Strażnicy - wrogie postacie, które chronią zamek maga i atakują gracza.
+Demoniczne stworzenia - potwory i demony, które atakują wioskę i muszą zostać pokonane przez gracza.
+Mroczny mag - główny przeciwnik gry, który mieszka w zamku i włada mrocznymi siłami nękającymi wioskę.
+
+
+Propozycje imion postaci:
+
+Rycerz - Gerard, Roland, Tristan, Baldwin, Ulrich, Galahad, Gawain, Lancelot
+Miejscowy przywódca - Albert, Conrad, Hugo, Leopold, Otto, Wilhelm, Konrad, Ernst
+Kowal - Gunther, Siegfried, Wolfgang, Heinrich, Dieter, Hans, Franz, Reinhard
+Czarodziej - Merlin, Alatar, Radagast, Gandalf, Saruman, Durin, Thranduil, Elrond
+Handlarz - Hansel, Gretel, Hans, Hilda, Helga, Olaf, Freya, Ragnar
+Mieszkańcy wioski - Agnieszka, Bartek, Cecylia, Dominik, Ewa, Feliks, Gabriela, Henryk
+Strażnik - Conrad, Darius, Ethan, Gideon, Hector, Ivan, Kamil, Lukasz
+Demoniczne stworzenia - Azazel, Beelzebub, Belial, Mammon, Leviathan, Abaddon, Belphegor, Asmodeus
+Mroczny mag - Malphas, Agares, Aamon, Astaroth, Bael, Naberius, Raum, Vassago
