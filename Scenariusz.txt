@@ -26,6 +26,8 @@ Kowal daje graczowi w nagrodę lepszy miecz. (Od tego momentu gracz może równi
 Po udanej misji postać gracza zaczyna odczuwać głód i pragnienie. Gra informuje nas o konieczności wizyty w karczmie. Tam czeka na nas handlarz/karczmarz.
 Handlarz/karczmarz oferuje nam jedzenie, ale mówi że to końcówka zapasów ponieważ demony wybiły większość hodowli i wyjadły zapasy.
 Naszym nowym zadaniem jest likwidacja legowiska demonów w magazynie handlarza.
+Gdy to wykonamy handlarz okaże wdzięczność, da nam zniżkę na produkty spożywcze i pokaże "czarny rynek" na zapleczu karczmy. (asortyment czarnego rynku do ustalenia)
+Handlarz wskaże również kilka innych lokalizacji gdzie zalęgły się potwory. (jedno miejsce obowiązkowe do oczyszczenia żeby odblokować dalszą fabułę, pozostałe opcjonalne)
 ...
 Gracz pokonuje strażników i wchodzi do zamku maga.
 Wewnątrz czekają demony, które również należy pokonać.
