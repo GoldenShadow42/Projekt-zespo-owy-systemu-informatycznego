@@ -56,12 +56,12 @@ Mroczny mag - główny przeciwnik gry, który mieszka w zamku i włada mrocznymi
 
 Propozycje imion postaci:
 
-Rycerz - Gerard, Roland, Tristan, Baldwin, Ulrich, Galahad, Gawain, Lancelot
-Miejscowy przywódca - Albert, Conrad, Hugo, Leopold, Otto, Wilhelm, Konrad, Ernst
-Kowal - Gunther, Siegfried, Wolfgang, Heinrich, Dieter, Hans, Franz, Reinhard
+Rycerz - Gerard z Libii
+Miejscowy przywódca - Leopold the Germany kid
+Kowal - Smith kowalski
 Czarodziej - Stachu Jones
-Handlarz - Hansel, Gretel, Hans, Hilda, Helga, Olaf, Freya, Ragnar
+Handlarz - Kupiec korzenny emhyr var emreis 
 Mieszkańcy wioski - Agnieszka, Bartek, Cecylia, Dominik, Ewa, Feliks, Gabriela, Henryk
-Strażnik - Conrad, Darius, Ethan, Gideon, Hector, Ivan, Kamil, Lukasz
+Strażnicy - Conrad, Darius, Ethan, Gideon, Hector, Ivan, Kamil, Lukasz
 Demoniczne stworzenia - Azazel, Beelzebub, Belial, Mammon, Leviathan, Abaddon, Belphegor, Asmodeus
 Mroczny mag - Malphas, Agares, Aamon, Astaroth, Bael, Naberius, Raum, Vassago
