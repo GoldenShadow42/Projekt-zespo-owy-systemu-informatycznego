@@ -17,7 +17,7 @@ Scenariusz szczegółowy:
 Gracz pojawia się na krańcu mapy w nocy. Na ekranie wyświetla się podstawowy tutorial i list od przywódcy wioski. W liście jest prośba o pomoc w walce z mrocznymi siłami. (szczegółowa treść listu do opracowania)
 Gracz idzie do wioski.
 Po dotarciu do wioski gracz widzi potwory atakujące wioskę. Walczy z nimi.
-Po pokonaniu potworów spotyka się z przywódcą wioski który tłumaczy czym są te bestie oraz opowiada o historii wioski.
+Po pokonaniu potworów spotyka się z przywódcą wioski który tłumaczy czym są te bestie oraz opowiada o historii wioski, o tym jak wieś była kiedyś spokojna, a teraz jest atakowana przez mroczne siły. Gracz dowiaduje się, że potwory i demony atakują wioskę każdej nocy, a mieszkańcy żyją w ciągłym strachu.
 
 
 
