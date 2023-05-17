@@ -24,6 +24,8 @@ Kowal kieruje gracza do opuszczonej chaty na obrzeżach wioski gdzie gracz musi 
 Gracz wykonuje zadanie i zwraca kowalowi jego własność.
 Kowal daje graczowi w nagrodę lepszy miecz. (Od tego momentu gracz może również nabyć u kowala lepszą zbroję)
 Po udanej misji postać gracza zaczyna odczuwać głód i pragnienie. Gra informuje nas o konieczności wizyty w karczmie. Tam czeka na nas handlarz/karczmarz.
+Handlarz/karczmarz oferuje nam jedzenie, ale mówi że to końcówka zapasów ponieważ demony wybiły większość hodowli i wyjadły zapasy.
+Naszym nowym zadaniem jest likwidacja legowiska demonów w magazynie handlarza.
 ...
 Gracz pokonuje strażników i wchodzi do zamku maga.
 Wewnątrz czekają demony, które również należy pokonać.
