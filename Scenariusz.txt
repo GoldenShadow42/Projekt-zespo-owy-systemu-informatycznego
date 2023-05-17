@@ -31,6 +31,9 @@ Demon o ludzkiej posturze ostatnim tchnieniem mówi do gracza "Marny śmiertelni
 Ślady krwi prowadzą do głównej sali w której czeka mag. Za magiem jest otwarty portal do wymiaru demonów.
 Walka jest długa i składa się z co najmniej 2 sekwencji. Do walki regularnie dołączają demony w celu pomocy magowi.
 Po pokonaniu maga gracz zdobywa kostur maga, którym wyłącza portal i likwiduje wszystkie przyzwane demony na raz.
+Gracz wraca do wioski gdzie czekają na niego mieszkańcy i przywódca. Wszyscy wiwatują na cześć bohatera który uwolnił wioskę od sił zła.
+Gra się kończy. 
+Po napisach końcowych gracz dalej może zwiedzać mapę i wykonywać zadania poboczne.
 
 
 Lista postaci:
