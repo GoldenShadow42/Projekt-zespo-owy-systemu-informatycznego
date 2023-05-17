@@ -14,6 +14,12 @@ Koniec gry.
 
 Scenariusz szczegółowy:
 
+Gracz pojawia się na krańcu mapy w nocy. Na ekranie wyświetla się podstawowy tutorial i list od przywódcy wioski. W liście jest prośba o pomoc w walce z mrocznymi siłami. (szczegółowa treść listu do opracowania)
+Gracz idzie do wioski.
+Po dotarciu do wioski gracz widzi potwory atakujące wioskę. Walczy z nimi.
+Po pokonaniu potworów spotyka się z przywódcą wioski który tłumaczy czym są te bestie oraz opowiada o historii wioski.
+
+
 
 
 Lista postaci:
