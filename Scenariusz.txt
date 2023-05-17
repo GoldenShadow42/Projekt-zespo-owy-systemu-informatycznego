@@ -59,7 +59,7 @@ Propozycje imion postaci:
 Rycerz - Gerard, Roland, Tristan, Baldwin, Ulrich, Galahad, Gawain, Lancelot
 Miejscowy przywódca - Albert, Conrad, Hugo, Leopold, Otto, Wilhelm, Konrad, Ernst
 Kowal - Gunther, Siegfried, Wolfgang, Heinrich, Dieter, Hans, Franz, Reinhard
-Czarodziej - Merlin, Alatar, Radagast, Gandalf, Saruman, Durin, Thranduil, Elrond
+Czarodziej - Stachu Jones
 Handlarz - Hansel, Gretel, Hans, Hilda, Helga, Olaf, Freya, Ragnar
 Mieszkańcy wioski - Agnieszka, Bartek, Cecylia, Dominik, Ewa, Feliks, Gabriela, Henryk
 Strażnik - Conrad, Darius, Ethan, Gideon, Hector, Ivan, Kamil, Lukasz
