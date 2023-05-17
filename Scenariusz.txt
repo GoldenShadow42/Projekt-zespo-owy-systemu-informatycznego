@@ -28,6 +28,7 @@ Handlarz/karczmarz oferuje nam jedzenie, ale mówi że to końcówka zapasów po
 Naszym nowym zadaniem jest likwidacja legowiska demonów w magazynie handlarza.
 Gdy to wykonamy handlarz okaże wdzięczność, da nam zniżkę na produkty spożywcze i pokaże "czarny rynek" na zapleczu karczmy. (asortyment czarnego rynku do ustalenia)
 Handlarz wskaże również kilka innych lokalizacji gdzie zalęgły się potwory. (jedno miejsce obowiązkowe do oczyszczenia żeby odblokować dalszą fabułę, pozostałe opcjonalne)
+Przy wyjściu z karczmy zaczepia nas pijany czarodziej imieniem Stachu Jones i mówi że wiedział że przyjedziemy do wioski. Mówi że będzie wyczekiwał gracza pod swoją górą na obrzeżach wioski i wyszkoli nas w jeden księżyc (to wątek fabularny konieczny do odblokowania magicznych zdolności oraz odkrycia ważnych informacji o mrocznym magu)
 ...
 Gracz pokonuje strażników i wchodzi do zamku maga.
 Wewnątrz czekają demony, które również należy pokonać.
