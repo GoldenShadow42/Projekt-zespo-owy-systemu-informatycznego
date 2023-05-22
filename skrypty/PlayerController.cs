@@ -46,7 +46,7 @@ public class PlayerController : MonoBehaviour
 
         if (Input.GetKey(KeyCode.LeftShift))
         {
-            movement = new Vector3(moveHorizontal, 0f, moveForward);
+            movement = new Vector3(moveHorizontal*2, 0f, moveForward*2);
         }
         else
         {
