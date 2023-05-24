@@ -272,7 +272,8 @@ dodanie credits - kacper
 dodanie mechanik:
 walka/teleportacja/zakończenie gry - oskar
 za gry - kamil, oskar
-ukończenie wszystkich dialogów
+ukończenie wszystkich dialogów - kamil, oskar
+
 do 7 czerwiec:
 ukończenie wszystkich assetów graficznych i umieszczenie ich w grze  - kacper
 ukończenie pełnej graficznie mapy gry - kacper
