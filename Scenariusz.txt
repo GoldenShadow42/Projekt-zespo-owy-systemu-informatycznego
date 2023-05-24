@@ -4,7 +4,7 @@ Gatunek: RPG
 Scenariusz wstępny:
 
 Akcja gry toczy się w średniowiecznej wiosce otoczonej przez lasy i góry. Gracz wciela się w rolę rycerza, który przybywa do wioski, aby pomóc w walce z potworami i złymi siłami, które nękały jej mieszkańców.
-Po dotarciu do wioski gracz spotyka się z miejscowym przywódcą, który opowiada o historii wioski i o tym, jak wieś była kiedyś spokojna, a teraz jest atakowana przez mroczne siły. Gracz dowiaduje się, że potwory i demony atakują wioskę każdej nocy, a mieszkańcy żyją w ciągłym strachu.
+Po dotarciu do wioski gracz spotyka się z miejscowym przywódcą, który opowiada o historii wioski i o tym, jak wieś była kiedyś spokojna, a teraz jest atakowana przez mroczne siły. Gracz dowiaduje się, że potwory i demony atakują wioskę regularnie każdego dnia, a mieszkańcy żyją w ciągłym strachu.
 Gracz przystępuje do walki z potworami i demonami, korzystając z miecza i magii. Podczas swojej podróży spotyka różnych mieszkańców wioski, którzy oferują mu pomoc i wskazówki. Niektórzy z nich chcą pomóc w walce, podczas gdy inni proponują zadania poboczne, które gracz musi wykonać, aby zdobyć cenne przedmioty lub informacje.
 Gracz odkrywa, że siły zła, które nękają wioskę, są spowodowane przez mrocznego maga, który mieszka w zamku na wzgórzu na obrzeżach wioski. Gracz podejmuje się misji, aby pokonać maga i przywrócić spokój do wioski.
 Po dotarciu do zamku gracz musi pokonać strażników i demoniczne stworzenia, aby dotrzeć do samego maga. Walka z magiem jest trudna i wymaga od gracza skutecznego wykorzystania swoich zdolności bojowych i magicznych.
@@ -14,7 +14,7 @@ Koniec gry.
 
 Scenariusz szczegółowy:
 
-Gracz pojawia się na krańcu mapy w nocy. Na ekranie wyświetla się podstawowy tutorial i list od przywódcy wioski. W liście jest prośba o pomoc w walce z mrocznymi siłami. (szczegółowa treść listu do opracowania)
+Gracz pojawia się na krańcu mapy. Na ekranie wyświetla się podstawowy tutorial i list od przywódcy wioski. W liście jest prośba o pomoc w walce z mrocznymi siłami. (szczegółowa treść listu do opracowania)
 Gracz idzie do wioski.
 Po dotarciu do wioski gracz widzi potwory atakujące wioskę. Walczy z nimi.
 Po pokonaniu potworów spotyka się z przywódcą wioski który tłumaczy czym są te bestie oraz opowiada o historii wioski, o tym jak wieś była kiedyś spokojna, a teraz jest atakowana przez mroczne siły. Gracz dowiaduje się, że potwory i demony atakują wioskę każdej nocy, a mieszkańcy żyją w ciągłym strachu.
