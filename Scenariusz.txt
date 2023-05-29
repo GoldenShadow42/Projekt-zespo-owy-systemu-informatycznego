@@ -44,8 +44,6 @@ Czarodziej tłumaczy że pokonał już wcześniej mrocznego maga jednak ten się
 Gracz musi wrócić do siedziby czarodzieja razem z odzyskanym alkoholem. Dopiero wtedy czarodziej daje mu medalion.
 Gracz po tej misji musi wrócić do karczmy żeby się zdrzemnąć. Gdy budzi się następnego dnia okazuje się że strażnicy maga byli w karczmie i ukradli mu medalion podczas snu.
 W tej chwili zaczyna się finalna misja i gracz musi iść do zamku maga. Podczas wejścia do zamku pojawia się komunikat że od teraz nie ma już powrotu.
-
-...
 Gracz pokonuje strażników i wchodzi do zamku maga.
 Wewnątrz czekają demony, które również należy pokonać.
 Demon o ludzkiej posturze ostatnim tchnieniem mówi do gracza "Marny śmiertelniku jeśli masz odwagę zmierzyć się z naszym panem idź za śladami krwi".
