@@ -2,7 +2,7 @@ Tytuł gry: Światła Mroku: Opowieść Zaklętego Królestwa
 Gatunek: RPG
 
 
-Scenariusz szczegółowy:
+Scenariusz:
 
 Gracz pojawia się na początkowej wyspie. Na ekranie wyświetla się podstawowy tutorial i list od przywódcy wioski. W liście jest prośba o pomoc w walce z mrocznymi siłami. (szczegółowa treść listu do opracowania)
 Gracz idzie do wioski.
