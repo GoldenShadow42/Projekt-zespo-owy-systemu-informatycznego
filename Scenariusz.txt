@@ -14,27 +14,27 @@ Koniec gry.
 
 Scenariusz szczegółowy:
 
-Gracz pojawia się na krańcu mapy. Na ekranie wyświetla się podstawowy tutorial i list od przywódcy wioski. W liście jest prośba o pomoc w walce z mrocznymi siłami. (szczegółowa treść listu do opracowania)
+Gracz pojawia się na początkowej wyspie. Na ekranie wyświetla się podstawowy tutorial i list od przywódcy wioski. W liście jest prośba o pomoc w walce z mrocznymi siłami. (szczegółowa treść listu do opracowania)
 Gracz idzie do wioski.
 Po dotarciu do wioski gracz widzi potwory atakujące wioskę. Walczy z nimi.
 Po pokonaniu potworów spotyka się z przywódcą wioski który tłumaczy czym są te bestie oraz opowiada o historii wioski, o tym jak wieś była kiedyś spokojna, a teraz jest atakowana przez mroczne siły. Gracz dowiaduje się, że potwory i demony atakują wioskę codziennie, a mieszkańcy żyją w ciągłym strachu.
 Dowódca zauważa że uzbrojenie gracza jest w kiepskim stanie po całej podróży i walce oraz proponuje mu zajrzeć do wioskowego kowala. (To kolejne zadanie fabularne)
 Gracz spotyka się z kowalem, ale ten zleca graczowi odzyskanie skradzionych narzędzi rzemieślniczych. Dopiero wtedy gracz odblokuje usługi kowala.
-Kowal kieruje gracza do opuszczonej chaty na obrzeżach wioski gdzie gracz musi pokonać grupę złodziei i odzyskać narzędzia.
+Kowal kieruje gracza na wyspę na obrzeżach mapy gdzie gracz musi pokonać grupę złodziei i odzyskać narzędzia.
 Gracz wykonuje zadanie i zwraca kowalowi jego własność.
 Kowal daje graczowi w nagrodę lepszy miecz. (Od tego momentu gracz może również nabyć u kowala lepszą zbroję)
 Po udanej misji postać gracza zaczyna odczuwać głód i pragnienie. Gra informuje nas o konieczności wizyty w karczmie. Tam czeka na nas handlarz/karczmarz.
 Handlarz/karczmarz oferuje nam jedzenie, ale mówi że to końcówka zapasów ponieważ demony wybiły większość hodowli i wyjadły zapasy.
 Naszym nowym zadaniem jest likwidacja legowiska demonów w magazynie handlarza.
-Gdy to wykonamy handlarz okaże wdzięczność, da nam zniżkę na produkty spożywcze i pokaże "czarny rynek" na zapleczu karczmy. (asortyment czarnego rynku: narkotyki zwiększające szybkość biegu, wysokość skoku, odporność na obrażenia, itp)
-Handlarz wskaże również kilka innych lokalizacji gdzie zalęgły się potwory. (jedno miejsce obowiązkowe do oczyszczenia żeby odblokować dalszą fabułę, pozostałe opcjonalne)++++++
-Przy wyjściu z karczmy zaczepia nas pijany czarodziej imieniem Stachu Jones i mówi że wiedział że przybędziemy do wioski. Mówi że będzie wyczekiwał gracza pod swoją górą na obrzeżach wioski i wyszkoli nas w jeden księżyc (to wątek fabularny konieczny do odblokowania magicznych zdolności oraz odkrycia ważnych informacji o mrocznym magu).
+Gdy to wykonamy handlarz okaże wdzięczność, da nam zniżkę na produkty spożywcze.
+Handlarz wskaże również jeszcze jedną lokalizacje do oczyszczenia z potworów.
+Przy wyjściu z karczmy zaczepia nas pijany czarodziej imieniem Stachu Jones i mówi że wiedział że przybędziemy do wioski. Mówi że będzie wyczekiwał gracza pod swoim drzewem za wioską i wyszkoli nas w jeden księżyc (to wątek fabularny konieczny do odblokowania magicznych zdolności oraz odkrycia ważnych informacji o mrocznym magu).
 Gracz idzie oczyścić to jedno miejsce z potworów, a następnie idzie do czarodzieja.
 Po dotarciu na miejsce czarodziej dalej jest pijany (taki stan będzie przez całą grę) i mówi że żaden z nas wojownik tylko zwykły wieśniak. Mimo to obiecuje nas wyszkolić.
 1 etap treningu polega na zwykłym biciu manekinu gołymi pięściami. Ten etap jest przerwany dialogiem w którym gracz prosi czarodzieja o jakiś zaklęty miecz, a czarodziej daje mu kij i mówi "nie, masz tu kij i napierdalaj"
 2 etap treningu polega na biciu manekinu kijem.
-3 etap polega na walce czarodziejem w której gracz zostaje niemal natychmiast znokautowany i budzi się dopiero po jakimś czasie.
-Czarodziej stwierdza że nigdy nie miał gorszego ucznia, ale był na to przygotowany i daje nam magiczny wywar oraz każe wymówić zaklęcie *TU BĘDZIE TREŚĆ ZAKLĘCIA* (dobrze żeby to było w nocy)
+3 etap polega na walce z czarodziejem w której gracz zostaje niemal natychmiast znokautowany i budzi się dopiero po jakimś czasie.
+Czarodziej stwierdza że nigdy nie miał gorszego ucznia, ale był na to przygotowany i daje nam magiczny wywar oraz każe wymówić zaklęcie *TU BĘDZIE TREŚĆ ZAKLĘCIA*
 Po wypiciu wywaru i wymówieniu zaklęcia gracza nagle trafia błyskawica i od teraz mamy magiczne moce. (strzelanie piorunami, kulami ognia, teleportacja, super uderzenie, fala uderzeniowa)
 Czarodziej chcę żebyśmy w ramach testu naszych nowych zdolności pomogli mu odzyskać jego własność od grupy która od jakiegoś czasu upierdliwie utrudnia mu życie.
 Razem z czarodziejem udajemy się do grupy dziwnych druidów którzy nielegalnie przechowują najmocniejszy bimber jaki czarodziej kiedykolwiek zrobił i musimy go odzyskać.
@@ -46,7 +46,7 @@ Gracz po tej misji musi wrócić do karczmy żeby się zdrzemnąć. Gdy budzi si
 W tej chwili zaczyna się finalna misja i gracz musi iść do zamku maga. Podczas wejścia do zamku pojawia się komunikat że od teraz nie ma już powrotu.
 Gracz pokonuje strażników i wchodzi do zamku maga.
 Wewnątrz czekają demony, które również należy pokonać.
-Demon o ludzkiej posturze ostatnim tchnieniem mówi do gracza "Marny śmiertelniku jeśli masz odwagę zmierzyć się z naszym panem idź za śladami krwi".
+Jeden z demonów ostatnim tchnieniem mówi do gracza "Marny śmiertelniku jeśli masz odwagę zmierzyć się z naszym panem idź za śladami krwi".
 Ślady krwi prowadzą do głównej sali w której czeka mag. Za magiem jest otwarty portal do wymiaru demonów.
 Walka jest długa i składa się z co najmniej 2 sekwencji. Do walki regularnie dołączają demony w celu pomocy magowi.
 Po pokonaniu maga gracz zdobywa kostur maga, którym wyłącza portal i likwiduje wszystkie przyzwane demony na raz.
