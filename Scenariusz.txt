@@ -23,28 +23,15 @@ Po dotarciu na miejsce czarodziej dalej jest pijany (taki stan będzie przez ca�
 1 etap treningu polega na zwykłym biciu manekinu gołymi pięściami. Ten etap jest przerwany dialogiem w którym gracz prosi czarodzieja o jakiś zaklęty miecz, a czarodziej daje mu kij i mówi "nie, masz tu kij i napierdalaj"
 2 etap treningu polega na biciu manekinu kijem.
 3 etap polega na walce z czarodziejem w której gracz zostaje niemal natychmiast znokautowany i budzi się dopiero po jakimś czasie.
-Czarodziej stwierdza że nigdy nie miał gorszego ucznia, ale był na to przygotowany i daje nam magiczny wywar oraz każe wymówić zaklęcie *TU BĘDZIE TREŚĆ ZAKLĘCIA*
-Po wypiciu wywaru i wymówieniu zaklęcia gracza nagle trafia błyskawica i od teraz mamy magiczne moce. (strzelanie piorunami, kulami ognia, teleportacja, super uderzenie, fala uderzeniowa)
-Czarodziej chcę żebyśmy w ramach testu naszych nowych zdolności pomogli mu odzyskać jego własność od grupy która od jakiegoś czasu upierdliwie utrudnia mu życie.
-Razem z czarodziejem udajemy się do grupy dziwnych druidów którzy nielegalnie przechowują najmocniejszy bimber jaki czarodziej kiedykolwiek zrobił i musimy go odzyskać.
-Gracz i czarodziej pokonują przeciwników przy użyciu magii i zaklęć.
-Postać gracza okazuje lekkie zażenowanie gdy dowiaduje się że czarodziejowi chodziło o alkohol jednak czarodziej pokazuje co właśnie zabrał od przywódcy druidów (medalion).
-Czarodziej tłumaczy że pokonał już wcześniej mrocznego maga jednak ten się odradza. Medalion ma zablokować zdolność odradzania maga i to jest najważniejszy przedmiot fabularny.
-Gracz musi wrócić do siedziby czarodzieja razem z odzyskanym alkoholem. Dopiero wtedy czarodziej daje mu medalion.
+Czarodziej stwierdza że nigdy nie miał gorszego ucznia, ale był na to przygotowany i każe nam wymówić zaklęcie *TU BĘDZIE TREŚĆ ZAKLĘCIA*
+Po wymówieniu zaklęcia gracz dostaje na stałe zwiększone statystyki zdrowia i damage.
+Czarodziej tłumaczy że pokonał już wcześniej mrocznego maga jednak ten się odradza i daje nam medalion który ma zablokować zdolność odradzania maga (to jest najważniejszy przedmiot fabularny).
 Gracz po tej misji musi wrócić do karczmy żeby się zdrzemnąć. Gdy budzi się następnego dnia okazuje się że strażnicy maga byli w karczmie i ukradli mu medalion podczas snu.
-W tej chwili zaczyna się finalna misja i gracz musi iść do zamku maga. Podczas wejścia do zamku pojawia się komunikat że od teraz nie ma już powrotu.
-Gracz pokonuje strażników i wchodzi do zamku maga.
-Wewnątrz czekają demony, które również należy pokonać.
-Jeden z demonów ostatnim tchnieniem mówi do gracza:
-
-DEMON: "Marny śmiertelniku jeśli masz odwagę zmierzyć się z naszym panem idź za śladami krwi".
-
-Ślady krwi prowadzą do głównej sali w której czeka mag. Za magiem jest otwarty portal do wymiaru demonów.
-Walka jest długa i składa się z co najmniej 2 sekwencji. Do walki regularnie dołączają demony w celu pomocy magowi.
-Po pokonaniu maga gracz zdobywa kostur maga, którym wyłącza portal i likwiduje wszystkie przyzwane demony na raz.
+W tej chwili zaczyna się finalna misja i gracz musi iść na wyspę maga. Podczas wejścia na wyspę pojawia się komunikat że od teraz nie ma już powrotu.
+Po pokonaniu maga strażnicy i wilki znikają.
 Gracz wraca do wioski gdzie czekają na niego mieszkańcy i przywódca. Wszyscy wiwatują na cześć bohatera który uwolnił wioskę od sił zła.
 Gra się kończy. 
-Po napisach końcowych gracz dalej może zwiedzać mapę i wykonywać zadania poboczne.
+Po napisach końcowych gracz dalej może zwiedzać mapę.
 
 
 Lista postaci:
@@ -56,7 +43,6 @@ Czarodziej - postać, która uczy gracza różnych zaklęć i pomaga mu w walce 
 Handlarz - postać, która sprzedaje graczowi przedmioty, takie jak leki, jedzenie i narzędzia.
 Mieszkańcy wioski - różne postacie, z którymi gracz może porozmawiać, zdobyć informacje i wykonywać zadania, które oferują.
 Strażnicy - wrogie postacie, które chronią zamek maga i atakują gracza.
-Demoniczne stworzenia - potwory i demony, które atakują wioskę i muszą zostać pokonane przez gracza.
 Mroczny mag - główny przeciwnik gry, który mieszka w zamku i włada mrocznymi siłami nękającymi wioskę.
 
 
@@ -69,5 +55,4 @@ Czarodziej - Stachu Jones
 Handlarz - Kupiec korzenny emhyr var emreis 
 Mieszkańcy wioski - Agnieszka, Bartek, Cecylia, Dominik, Ewa, Feliks, Gabriela, Henryk
 Strażnicy - Conrad, Darius, Ethan, Gideon, Hector, Ivan, Kamil, Lukasz
-Demoniczne stworzenia - Azazel, Beelzebub, Belial, Mammon, Leviathan, Abaddon, Belphegor, Asmodeus
 Mroczny mag - Malphas, Agares, Aamon, Astaroth, Bael, Naberius, Raum, Vassago
