@@ -37,6 +37,7 @@ Czarodziej - postać, która uczy gracza różnych zaklęć i pomaga mu w walce 
 Handlarz - postać, która sprzedaje graczowi przedmioty, takie jak leki, jedzenie i narzędzia.
 Mieszkańcy wioski - różne postacie, z którymi gracz może porozmawiać, zdobyć informacje i wykonywać zadania, które oferują.
 Strażnicy - wrogie postacie, które chronią zamek maga i atakują gracza.
+Opętane wilki - wilki które kontroluje mroczny mag przy użyciu czarnej magii.
 Mroczny mag - główny przeciwnik gry, który mieszka w zamku i włada mrocznymi siłami nękającymi wioskę.
 
 
