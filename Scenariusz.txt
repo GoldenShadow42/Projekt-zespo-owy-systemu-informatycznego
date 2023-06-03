@@ -46,7 +46,10 @@ Gracz po tej misji musi wrócić do karczmy żeby się zdrzemnąć. Gdy budzi si
 W tej chwili zaczyna się finalna misja i gracz musi iść do zamku maga. Podczas wejścia do zamku pojawia się komunikat że od teraz nie ma już powrotu.
 Gracz pokonuje strażników i wchodzi do zamku maga.
 Wewnątrz czekają demony, które również należy pokonać.
-Jeden z demonów ostatnim tchnieniem mówi do gracza "Marny śmiertelniku jeśli masz odwagę zmierzyć się z naszym panem idź za śladami krwi".
+Jeden z demonów ostatnim tchnieniem mówi do gracza:
+
+DEMON: "Marny śmiertelniku jeśli masz odwagę zmierzyć się z naszym panem idź za śladami krwi".
+
 Ślady krwi prowadzą do głównej sali w której czeka mag. Za magiem jest otwarty portal do wymiaru demonów.
 Walka jest długa i składa się z co najmniej 2 sekwencji. Do walki regularnie dołączają demony w celu pomocy magowi.
 Po pokonaniu maga gracz zdobywa kostur maga, którym wyłącza portal i likwiduje wszystkie przyzwane demony na raz.
