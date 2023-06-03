@@ -5,7 +5,7 @@ Gatunek: RPG
 Scenariusz:
 
 Gracz pojawia się na początkowej wyspie i musi udać się do wioski.
-Po dotarciu do wioski gracz widzi opętane wilki atakujące wioskę. Walczy z nimi.
+Po dotarciu do wioski gracz musi stoczyć walkę z opętanymi wilkami.
 Po pokonaniu wilków spotyka się z przywódcą wioski który tłumaczy dlaczego wilki atakują wioskę oraz opowiada o historii wioski, o tym jak wieś była kiedyś spokojna, a teraz jest atakowana przez mroczne siły. Gracz dowiaduje się, że wilki atakują wioskę codziennie, a mieszkańcy żyją w ciągłym strachu.
 Dowódca zauważa że uzbrojenie gracza jest w kiepskim stanie po całej podróży i walce oraz proponuje mu zajrzeć do wioskowego kowala. (To kolejne zadanie fabularne)
 Gracz spotyka się z kowalem, który daje mu lepszy miecz.
