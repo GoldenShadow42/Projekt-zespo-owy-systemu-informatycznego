@@ -47,6 +47,5 @@ Miejscowy przywódca - Leopold the Germany kid
 Kowal - Smith kowalski
 Czarodziej - Stachu Jones
 Handlarz - Kupiec korzenny emhyr var emreis 
-Mieszkańcy wioski - Agnieszka, Bartek, Cecylia, Dominik, Ewa, Feliks, Gabriela, Henryk
-Strażnicy - Conrad, Darius, Ethan, Gideon, Hector, Ivan, Kamil, Lukasz
-Mroczny mag - Malphas, Agares, Aamon, Astaroth, Bael, Naberius, Raum, Vassago
+Mieszkańcy wioski - Agnieszka, Bartek
+Mroczny mag - Bezimienny
