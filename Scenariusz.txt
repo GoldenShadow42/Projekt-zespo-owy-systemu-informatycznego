@@ -6,18 +6,17 @@ Scenariusz szczegółowy:
 
 Gracz pojawia się na początkowej wyspie. Na ekranie wyświetla się podstawowy tutorial i list od przywódcy wioski. W liście jest prośba o pomoc w walce z mrocznymi siłami. (szczegółowa treść listu do opracowania)
 Gracz idzie do wioski.
-Po dotarciu do wioski gracz widzi potwory atakujące wioskę. Walczy z nimi.
-Po pokonaniu potworów spotyka się z przywódcą wioski który tłumaczy czym są te bestie oraz opowiada o historii wioski, o tym jak wieś była kiedyś spokojna, a teraz jest atakowana przez mroczne siły. Gracz dowiaduje się, że potwory i demony atakują wioskę codziennie, a mieszkańcy żyją w ciągłym strachu.
+Po dotarciu do wioski gracz widzi opętane wilki atakujące wioskę. Walczy z nimi.
+Po pokonaniu wilków spotyka się z przywódcą wioski który tłumaczy dlaczego wilki atakują wioskę oraz opowiada o historii wioski, o tym jak wieś była kiedyś spokojna, a teraz jest atakowana przez mroczne siły. Gracz dowiaduje się, że wilki atakują wioskę codziennie, a mieszkańcy żyją w ciągłym strachu.
 Dowódca zauważa że uzbrojenie gracza jest w kiepskim stanie po całej podróży i walce oraz proponuje mu zajrzeć do wioskowego kowala. (To kolejne zadanie fabularne)
-Gracz spotyka się z kowalem, ale ten zleca graczowi odzyskanie skradzionych narzędzi rzemieślniczych. Dopiero wtedy gracz odblokuje usługi kowala.
+Gracz spotyka się z kowalem, ale ten zleca graczowi odzyskanie skradzionych narzędzi rzemieślniczych.
 Kowal kieruje gracza na wyspę na obrzeżach mapy gdzie gracz musi pokonać grupę złodziei i odzyskać narzędzia.
 Gracz wykonuje zadanie i zwraca kowalowi jego własność.
-Kowal daje graczowi w nagrodę lepszy miecz. (Od tego momentu gracz może również nabyć u kowala lepszą zbroję)
-Po udanej misji postać gracza zaczyna odczuwać głód i pragnienie. Gra informuje nas o konieczności wizyty w karczmie. Tam czeka na nas handlarz/karczmarz.
-Handlarz/karczmarz oferuje nam jedzenie, ale mówi że to końcówka zapasów ponieważ demony wybiły większość hodowli i wyjadły zapasy.
+Kowal daje graczowi w nagrodę lepszy miecz.
+Po udanej misji postać gracza zaczyna odczuwać głód i pragnienie (tylko według dialogów). Gra informuje nas o konieczności wizyty w karczmie. Tam czeka na nas handlarz.
+Handlarz oferuje nam jedzenie, ale mówi że to końcówka zapasów ponieważ demony wybiły większość hodowli i wyjadły zapasy.
 Naszym nowym zadaniem jest likwidacja legowiska demonów w magazynie handlarza.
-Gdy to wykonamy handlarz okaże wdzięczność, da nam zniżkę na produkty spożywcze.
-Handlarz wskaże również jeszcze jedną lokalizacje do oczyszczenia z potworów.
+Gdy to wykonamy handlarz okaże wdzięczność.
 Przy wyjściu z karczmy zaczepia nas pijany czarodziej imieniem Stachu Jones i mówi że wiedział że przybędziemy do wioski. Mówi że będzie wyczekiwał gracza pod swoim drzewem za wioską i wyszkoli nas w jeden księżyc (to wątek fabularny konieczny do odblokowania magicznych zdolności oraz odkrycia ważnych informacji o mrocznym magu).
 Gracz idzie oczyścić to jedno miejsce z potworów, a następnie idzie do czarodzieja.
 Po dotarciu na miejsce czarodziej dalej jest pijany (taki stan będzie przez całą grę) i mówi że żaden z nas wojownik tylko zwykły wieśniak. Mimo to obiecuje nas wyszkolić.
