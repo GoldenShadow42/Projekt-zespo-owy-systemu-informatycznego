@@ -17,8 +17,8 @@ Po udanej misji postać gracza zaczyna odczuwać głód i pragnienie (tylko wed�
 Handlarz oferuje nam jedzenie, ale mówi że to końcówka zapasów ponieważ demony wybiły większość hodowli i wyjadły zapasy.
 Naszym nowym zadaniem jest likwidacja legowiska demonów w magazynie handlarza.
 Gdy to wykonamy handlarz okaże wdzięczność.
-Przy wyjściu z karczmy zaczepia nas pijany czarodziej imieniem Stachu Jones i mówi że wiedział że przybędziemy do wioski. Mówi że będzie wyczekiwał gracza pod swoim drzewem za wioską i wyszkoli nas w jeden księżyc (to wątek fabularny konieczny do odblokowania magicznych zdolności oraz odkrycia ważnych informacji o mrocznym magu).
-Gracz idzie oczyścić to jedno miejsce z potworów, a następnie idzie do czarodzieja.
+Przy wyjściu z karczmy zaczepia nas pijany czarodziej imieniem Stachu Jones i mówi że wiedział że przybędziemy do wioski. Mówi że będzie wyczekiwał gracza pod swoim drzewem za wioską i wyszkoli nas w jeden księżyc.
+Gracz idzie pod drzewo czarodzieja.
 Po dotarciu na miejsce czarodziej dalej jest pijany (taki stan będzie przez całą grę) i mówi że żaden z nas wojownik tylko zwykły wieśniak. Mimo to obiecuje nas wyszkolić.
 1 etap treningu polega na zwykłym biciu manekinu gołymi pięściami. Ten etap jest przerwany dialogiem w którym gracz prosi czarodzieja o jakiś zaklęty miecz, a czarodziej daje mu kij i mówi "nie, masz tu kij i napierdalaj"
 2 etap treningu polega na biciu manekinu kijem.
