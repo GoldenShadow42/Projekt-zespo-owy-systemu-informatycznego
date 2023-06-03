@@ -6,23 +6,23 @@ Scenariusz:
 
 Gracz pojawia się na początkowej wyspie i musi udać się do wioski.
 Po dotarciu do wioski gracz musi stoczyć walkę z opętanymi wilkami.
-Po pokonaniu wilków spotyka się z przywódcą wioski który tłumaczy dlaczego wilki atakują wioskę oraz opowiada o historii wioski, o tym jak wieś była kiedyś spokojna, a teraz jest atakowana przez mroczne siły. Gracz dowiaduje się, że wilki atakują wioskę codziennie, a mieszkańcy żyją w ciągłym strachu.
-Dowódca zauważa że uzbrojenie gracza jest w kiepskim stanie po całej podróży i walce oraz proponuje mu zajrzeć do wioskowego kowala. (To kolejne zadanie fabularne)
+Po pokonaniu wilków spotyka się z przywódcą wioski który tłumaczy że wilki atakują wioskę codziennie z polecenia mrocznego maga.
+Dowódca zauważa że uzbrojenie gracza jest w kiepskim stanie po całej podróży i walce oraz proponuje mu zajrzeć do kowala.
 Gracz spotyka się z kowalem, który daje mu lepszy miecz.
-Po udanej misji postać gracza zaczyna odczuwać głód i pragnienie (tylko według dialogów). Gra informuje nas o konieczności wizyty w karczmie. Tam czeka na nas handlarz.
+Następnie postać gracza zaczyna odczuwać głód i pragnienie (tylko według dialogów). Gra informuje nas o konieczności wizyty w karczmie. Tam czeka na nas handlarz.
 Handlarz oferuje nam jedzenie, ale mówi że to końcówka zapasów ponieważ wilki wszystko wyjadły.
 Naszym nowym zadaniem jest likwidacja legowiska wilków w magazynie handlarza.
 Gdy to wykonamy handlarz okaże wdzięczność.
 Przy wyjściu z karczmy zaczepia nas pijany czarodziej imieniem Stachu Jones i mówi że wiedział że przybędziemy do wioski. Mówi że będzie wyczekiwał gracza pod swoim drzewem za wioską i wyszkoli nas w jeden księżyc.
 Gracz idzie pod drzewo czarodzieja.
-Po dotarciu na miejsce czarodziej dalej jest pijany (taki stan będzie przez całą grę) i mówi że żaden z nas wojownik tylko zwykły wieśniak. Mimo to obiecuje nas wyszkolić.
-Treningu polega na zwykłym biciu manekinu mieczem. Ten etap jest przerwany dialogiem w którym czarodziej stwierdza że nigdy nie miał gorszego ucznia, ale był na to przygotowany i wymawia zaklęcie *TU BĘDZIE TREŚĆ ZAKLĘCIA*
+Po dotarciu na miejsce czarodziej mówi że żaden z nas wojownik tylko zwykły wieśniak. Mimo to obiecuje nas wyszkolić.
+Trening polega na zwykłym biciu manekinu mieczem. Ten etap jest przerwany dialogiem w którym czarodziej stwierdza że nigdy nie miał gorszego ucznia, ale był na to przygotowany i wymawia zaklęcie.
 Po wymówieniu zaklęcia gracz dostaje na stałe zwiększone statystyki zdrowia i damage.
-Czarodziej tłumaczy że pokonał już wcześniej mrocznego maga jednak ten się odradza i daje nam medalion który ma zablokować zdolność odradzania maga (to jest najważniejszy przedmiot fabularny).
-Gracz po tej misji musi wrócić do karczmy żeby się zdrzemnąć. Gdy budzi się następnego dnia okazuje się że strażnicy maga byli w karczmie i ukradli mu medalion podczas snu.
-W tej chwili zaczyna się finalna misja i gracz musi iść na wyspę maga. Podczas wejścia na wyspę pojawia się komunikat że od teraz nie ma już powrotu.
+Czarodziej tłumaczy że pokonał już wcześniej mrocznego maga jednak ten się odradza i daje nam medalion który ma zablokować zdolność odradzania maga.
+Gracz po tej misji musi udać się na wyspę maga.
+W tej chwili zaczyna się finalna misja. Podczas wejścia na wyspę pojawia się komunikat że od teraz nie ma już powrotu.
 Po pokonaniu maga strażnicy i wilki znikają.
-Gracz wraca do wioski gdzie czekają na niego mieszkańcy i przywódca. Wszyscy wiwatują na cześć bohatera który uwolnił wioskę od sił zła.
+Gracz wraca do wioski gdzie czekają na niego mieszkańcy i przywódca. Wszyscy wiwatują na cześć bohatera.
 Gra się kończy. 
 Po napisach końcowych gracz dalej może zwiedzać mapę.
 
