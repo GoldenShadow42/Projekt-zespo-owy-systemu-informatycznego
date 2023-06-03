@@ -4,8 +4,7 @@ Gatunek: RPG
 
 Scenariusz:
 
-Gracz pojawia się na początkowej wyspie. Na ekranie wyświetla się podstawowy tutorial i list od przywódcy wioski. W liście jest prośba o pomoc w walce z mrocznymi siłami. (szczegółowa treść listu do opracowania)
-Gracz idzie do wioski.
+Gracz pojawia się na początkowej wyspie i musi udać się do wioski.
 Po dotarciu do wioski gracz widzi opętane wilki atakujące wioskę. Walczy z nimi.
 Po pokonaniu wilków spotyka się z przywódcą wioski który tłumaczy dlaczego wilki atakują wioskę oraz opowiada o historii wioski, o tym jak wieś była kiedyś spokojna, a teraz jest atakowana przez mroczne siły. Gracz dowiaduje się, że wilki atakują wioskę codziennie, a mieszkańcy żyją w ciągłym strachu.
 Dowódca zauważa że uzbrojenie gracza jest w kiepskim stanie po całej podróży i walce oraz proponuje mu zajrzeć do wioskowego kowala. (To kolejne zadanie fabularne)
