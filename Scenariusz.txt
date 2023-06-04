@@ -10,49 +10,67 @@ Po dotarciu do wioski gracz musi stoczyć walkę z opętanymi wilkami.
 Po pokonaniu wilków spotyka się z przywódcą wioski który tłumaczy że wilki atakują wioskę codziennie z polecenia mrocznego maga.
 Dowódca zauważa że uzbrojenie gracza jest w kiepskim stanie po całej podróży i walce oraz proponuje mu zajrzeć do kowala.
 
-  LEOPOLD THE GERMANY KID: "Tekścior!"
+  LEOPOLD THE GERMANY KID: "Witaj wojowniku!"
+  LEOPOLD THE GERMANY KID: "Nasza wioska jest atakowana przez MROCZNEGO MAGA!!!"
+  LEOPOLD THE GERMANY KID: "Nasyła na nas opętane wilki i swoich strażników od dawna."
+  LEOPOLD THE GERMANY KID: "Pomóż nam, a będziemy dozgonnie wdzięczni!"
+  LEOPOLD THE GERMANY KID: "Ale najpierw odwiedź naszego Kowala. Da Ci lepszy miecz."
 
 Gracz spotyka się z kowalem, który daje mu lepszy miecz.
 
-  SMITH KOWALSKI: "Tekścior!"
+  SMITH KOWALSKI: "Wojowniku, oby ten miecz pomógł Ci pokonać siły zła!"
+  SMITH KOWALSKI: "Powodzenia!"
+  SMITH KOWALSKI: "Przed walką radzę Ci pożywić się i napić w karczmie."
 
 Następnie postać gracza zaczyna odczuwać głód i pragnienie (tylko według dialogów). Gra informuje nas o konieczności wizyty w karczmie. Tam czeka na nas handlarz.
 Handlarz oferuje nam jedzenie, ale mówi że to końcówka zapasów ponieważ wilki wszystko wyjadły.
 
-  KUPIEC KORZENNY EMHYR VAR EMREIS: "Tekścior!"
+  KUPIEC KORZENNY EMHYR VAR EMREIS: "Witaj wojowniku!"
+  KUPIEC KORZENNY EMHYR VAR EMREIS: "Zjedz to, a nabierzesz sił."
+  KUPIEC KORZENNY EMHYR VAR EMREIS: "Więcej nie mogę Ci dać, gdyż wilki wyjadły nasze zapasy."
+  KUPIEC KORZENNY EMHYR VAR EMREIS: "Zlikwiduj legowisko wilków w moim magazynie, a zażegnasz kryzys żywieniowy."
 
 Naszym nowym zadaniem jest likwidacja legowiska wilków w magazynie handlarza.
 Gdy to wykonamy handlarz okaże wdzięczność.
 
-  KUPIEC KORZENNY EMHYR VAR EMREIS: "Tekścior!"
+  KUPIEC KORZENNY EMHYR VAR EMREIS: "Dziękuję, wiedziałem, że mogę na Ciebie liczyć!"
 
 Przy wyjściu z karczmy zaczepia nas pijany czarodziej imieniem Stachu Jones i mówi że wiedział że przybędziemy do wioski. Mówi że będzie wyczekiwał gracza pod swoim drzewem za wioską i wyszkoli nas w jeden księżyc.
 
-  STACHU JONES: "Tekścior!"
+  STACHU JONES: "Mówią że jesteś wojownikiem... jak dla mnie wyglądasz jak zwykły wieśniak."
+  STACHU JONES: "Mimo to wyszkolę Cię abyś mógł pokonać MROCZNEGO MAGA."
+  STACHU JONES: "Przyjdź pod moje WIELKIE DRZEWO i rozpoczniemy trening."
+  STACHU JONES: "Wyszkolę Cię w jeden księżyc!!!"
 
 Gracz idzie pod drzewo czarodzieja.
 Po dotarciu na miejsce czarodziej mówi że żaden z nas wojownik tylko zwykły wieśniak. Mimo to obiecuje nas wyszkolić.
 
-  STACHU JONES: "Tekścior!"
+  STACHU JONES: "Przybyłeś, więc możemy zaczynać."
+  STACHU JONES: "Pokaż co potrafisz i zniszcz ten manekin!"
 
 Trening polega na zwykłym biciu manekinu mieczem. Ten etap jest przerwany dialogiem w którym czarodziej stwierdza że nigdy nie miał gorszego ucznia, ale był na to przygotowany i wymawia zaklęcie.
 
-  STACHU JONES: "Tekścior!"
+  STACHU JONES: "Nigdy nie miałem gorszego ucznia... ale jestem na to przygotowany."
+  STACHU JONES: "HOKUS POKUS CZARY MARY!"
+  STACHU JONES: "TWOJA STARA TO TWÓJ STARY!"
+  STACHU JONES: "WIEŚNIAK JEST NIEPOKONANY!"
 
 Po wymówieniu zaklęcia gracz dostaje na stałe zwiększone statystyki zdrowia i damage.
 Czarodziej tłumaczy że pokonał już wcześniej mrocznego maga jednak ten się odradza i daje nam medalion który ma zablokować zdolność odradzania maga.
 
-  STACHU JONES: "Tekścior!"
+  STACHU JONES: "To zaklęcie wzmocniło Twoją siłę i zdolności."
+  STACHU JONES: "Weź też to. Ten medalion blokuje zdolność maga do odradzania się."
+  STACHU JONES: "Dzięki nowym zdolnościom i medalionowi pokonasz tego chama!"
 
 Gracz po tej misji musi udać się na wyspę maga.
 W tej chwili zaczyna się finalna misja. Podczas wejścia na wyspę pojawia się komunikat że od teraz nie ma już powrotu.
 
-  BEZIMIENNY: "Tekścior!"
+  BEZIMIENNY: "OŚMIELASZ SIĘ RZUCAĆ MI WYZWANIE ŚMIERTELNIKU?"
 
 Po pokonaniu maga strażnicy i wilki znikają.
 Gracz wraca do wioski gdzie czekają na niego mieszkańcy i przywódca.
 
-  LEOPOLD THE GERMANY KID: "Tekścior!"
+  LEOPOLD THE GERMANY KID: "Wojowniku!!! Jesteś bohaterem, który ocalił wioskę!!!"
 
 Gra się kończy. 
 Po napisach końcowych gracz dalej może zwiedzać mapę.
