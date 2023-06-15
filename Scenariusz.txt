@@ -1,44 +1,77 @@
 Tytuł gry: Światła Mroku: Opowieść Zaklętego Królestwa
 Gatunek: RPG
 
-Scenariusz wstępny:
-
-Akcja gry toczy się w średniowiecznej wiosce otoczonej przez lasy i góry. Gracz wciela się w rolę rycerza, który przybywa do wioski, aby pomóc w walce z potworami i złymi siłami, które nękały jej mieszkańców.
-Po dotarciu do wioski gracz spotyka się z miejscowym przywódcą, który opowiada o historii wioski i o tym, jak wieś była kiedyś spokojna, a teraz jest atakowana przez mroczne siły. Gracz dowiaduje się, że potwory i demony atakują wioskę regularnie każdego dnia, a mieszkańcy żyją w ciągłym strachu.
-Gracz przystępuje do walki z potworami i demonami, korzystając z miecza i magii. Podczas swojej podróży spotyka różnych mieszkańców wioski, którzy oferują mu pomoc i wskazówki. Niektórzy z nich chcą pomóc w walce, podczas gdy inni proponują zadania poboczne, które gracz musi wykonać, aby zdobyć cenne przedmioty lub informacje.
-Gracz odkrywa, że siły zła, które nękają wioskę, są spowodowane przez mrocznego maga, który mieszka w zamku na wzgórzu na obrzeżach wioski. Gracz podejmuje się misji, aby pokonać maga i przywrócić spokój do wioski.
-Po dotarciu do zamku gracz musi pokonać strażników i demoniczne stworzenia, aby dotrzeć do samego maga. Walka z magiem jest trudna i wymaga od gracza skutecznego wykorzystania swoich zdolności bojowych i magicznych.
-Po pokonaniu maga, gracz wraca do wioski i odkrywa, że spokój powrócił. Mieszkańcy wioski są wdzięczni za pomoc i oferują graczowi nagrody oraz wskazówki dotyczące innych wyzwań, które czekają na niego w świecie gry.
-Koniec gry.
 
 
-Scenariusz szczegółowy:
+Scenariusz:
 
-Gracz pojawia się na krańcu mapy. Na ekranie wyświetla się podstawowy tutorial i list od przywódcy wioski. W liście jest prośba o pomoc w walce z mrocznymi siłami. (szczegółowa treść listu do opracowania)
-Gracz idzie do wioski.
-Po dotarciu do wioski gracz widzi potwory atakujące wioskę. Walczy z nimi.
-Po pokonaniu potworów spotyka się z przywódcą wioski który tłumaczy czym są te bestie oraz opowiada o historii wioski, o tym jak wieś była kiedyś spokojna, a teraz jest atakowana przez mroczne siły. Gracz dowiaduje się, że potwory i demony atakują wioskę codziennie, a mieszkańcy żyją w ciągłym strachu.
-Dowódca zauważa że uzbrojenie gracza jest w kiepskim stanie po całej podróży i walce oraz proponuje mu zajrzeć do wioskowego kowala. (To kolejne zadanie fabularne)
-Gracz spotyka się z kowalem, ale ten zleca graczowi odzyskanie skradzionych narzędzi rzemieślniczych. Dopiero wtedy gracz odblokuje usługi kowala.
-Kowal kieruje gracza do opuszczonej chaty na obrzeżach wioski gdzie gracz musi pokonać grupę złodziei i odzyskać narzędzia.
-Gracz wykonuje zadanie i zwraca kowalowi jego własność.
-Kowal daje graczowi w nagrodę lepszy miecz. (Od tego momentu gracz może również nabyć u kowala lepszą zbroję)
-Po udanej misji postać gracza zaczyna odczuwać głód i pragnienie. Gra informuje nas o konieczności wizyty w karczmie. Tam czeka na nas handlarz/karczmarz.
-Handlarz/karczmarz oferuje nam jedzenie, ale mówi że to końcówka zapasów ponieważ demony wybiły większość hodowli i wyjadły zapasy.
-Naszym nowym zadaniem jest likwidacja legowiska demonów w magazynie handlarza.
-Gdy to wykonamy handlarz okaże wdzięczność, da nam zniżkę na produkty spożywcze i pokaże "czarny rynek" na zapleczu karczmy. (asortyment czarnego rynku do ustalenia)
-Handlarz wskaże również kilka innych lokalizacji gdzie zalęgły się potwory. (jedno miejsce obowiązkowe do oczyszczenia żeby odblokować dalszą fabułę, pozostałe opcjonalne)
-Przy wyjściu z karczmy zaczepia nas pijany czarodziej imieniem Stachu Jones i mówi że wiedział że przyjedziemy do wioski. Mówi że będzie wyczekiwał gracza pod swoją górą na obrzeżach wioski i wyszkoli nas w jeden księżyc (to wątek fabularny konieczny do odblokowania magicznych zdolności oraz odkrycia ważnych informacji o mrocznym magu)
-...
-Gracz pokonuje strażników i wchodzi do zamku maga.
-Wewnątrz czekają demony, które również należy pokonać.
-Demon o ludzkiej posturze ostatnim tchnieniem mówi do gracza "Marny śmiertelniku jeśli masz odwagę zmierzyć się z naszym panem idź za śladami krwi".
-Ślady krwi prowadzą do głównej sali w której czeka mag. Za magiem jest otwarty portal do wymiaru demonów.
-Walka jest długa i składa się z co najmniej 2 sekwencji. Do walki regularnie dołączają demony w celu pomocy magowi.
-Po pokonaniu maga gracz zdobywa kostur maga, którym wyłącza portal i likwiduje wszystkie przyzwane demony na raz.
-Gracz wraca do wioski gdzie czekają na niego mieszkańcy i przywódca. Wszyscy wiwatują na cześć bohatera który uwolnił wioskę od sił zła.
+Gracz pojawia się na początkowej wyspie i musi udać się do wioski.
+Po dotarciu do wioski gracz musi stoczyć walkę z opętanymi wilkami.
+Po pokonaniu wilków spotyka się z przywódcą wioski który tłumaczy że wilki atakują wioskę codziennie z polecenia mrocznego maga.
+Dowódca proponuje graczowi zajrzeć do kowala.
+
+  LEOPOLD THE GERMANY KID: "Witaj wojowniku!"
+  LEOPOLD THE GERMANY KID: "Nasza wioska jest atakowana przez MROCZNEGO MAGA!!!"
+  LEOPOLD THE GERMANY KID: "Nasyła na nas opętane wilki i swoich strażników od dawna."
+  LEOPOLD THE GERMANY KID: "Pomóż nam, a będziemy dozgonnie wdzięczni!"
+  LEOPOLD THE GERMANY KID: "Ale najpierw odwiedź naszego Kowala. Da Ci lepszy miecz."
+
+Gracz spotyka się z kowalem, który daje mu lepszy miecz.
+
+  SMITH KOWALSKI: "Wojowniku, oby ten miecz pomógł Ci pokonać siły zła!"
+  SMITH KOWALSKI: "Powodzenia!"
+  SMITH KOWALSKI: "Przed walką radzę Ci pożywić się i napić w karczmie."
+
+W karczmie czeka na nas handlarz.
+
+  KUPIEC KORZENNY EMHYR VAR EMREIS: "Witaj wojowniku!"
+  KUPIEC KORZENNY EMHYR VAR EMREIS: "Zjedz to, a nabierzesz sił."
+  KUPIEC KORZENNY EMHYR VAR EMREIS: "Więcej nie mogę Ci dać, gdyż wilki wyjadły nasze zapasy."
+  KUPIEC KORZENNY EMHYR VAR EMREIS: "Zlikwiduj legowisko wilków w moim magazynie, a zażegnasz kryzys żywieniowy."
+
+Naszym nowym zadaniem jest likwidacja legowiska wilków w magazynie handlarza.
+Gdy to wykonamy wracamy do handlarza.
+
+  KUPIEC KORZENNY EMHYR VAR EMREIS: "Dziękuję, wiedziałem, że mogę na Ciebie liczyć!"
+
+Przy wyjściu z karczmy zaczepia nas czarodziej imieniem Stachu Jones.
+
+  STACHU JONES: "Mówią że jesteś wojownikiem... jak dla mnie wyglądasz jak zwykły wieśniak."
+  STACHU JONES: "Mimo to wyszkolę Cię abyś mógł pokonać MROCZNEGO MAGA."
+  STACHU JONES: "Przyjdź pod moje WIELKIE DRZEWO i rozpoczniemy trening."
+  STACHU JONES: "Wyszkolę Cię w jeden księżyc!!!"
+
+Gracz idzie pod drzewo czarodzieja.
+
+  STACHU JONES: "Przybyłeś, więc możemy zaczynać."
+  STACHU JONES: "Pokaż co potrafisz i zniszcz ten manekin!"
+
+Trening polega na zwykłym biciu manekinu mieczem. Gracz niszczy manekin.
+
+  STACHU JONES: "Nigdy nie miałem gorszego ucznia... ale jestem na to przygotowany."
+  STACHU JONES: "HOKUS POKUS CZARY MARY!"
+  STACHU JONES: "TWOJA STARA TO TWÓJ STARY!"
+  STACHU JONES: "WIEŚNIAK JEST NIEPOKONANY!"
+
+Po wymówieniu zaklęcia gracz dostaje na stałe zwiększone statystyki zdrowia i damage.
+
+  STACHU JONES: "To zaklęcie wzmocniło Twoją siłę i zdolności."
+  STACHU JONES: "Weź też to. Ten medalion blokuje zdolność maga do odradzania się."
+  STACHU JONES: "Dzięki nowym zdolnościom i medalionowi pokonasz tego chama!"
+
+Gracz po tej misji musi udać się na wyspę maga.
+W tej chwili zaczyna się finalna misja.
+
+  BEZIMIENNY: "OŚMIELASZ SIĘ RZUCAĆ MI WYZWANIE ŚMIERTELNIKU?"
+
+Po pokonaniu maga strażnicy i wilki znikają.
+Gracz wraca do wioski gdzie czekają na niego mieszkańcy i przywódca.
+
+  LEOPOLD THE GERMANY KID: "Wojowniku!!! Jesteś bohaterem, który ocalił wioskę!!!"
+
 Gra się kończy. 
-Po napisach końcowych gracz dalej może zwiedzać mapę i wykonywać zadania poboczne.
+Po napisach końcowych gracz dalej może zwiedzać mapę.
+
 
 
 Lista postaci:
@@ -50,8 +83,9 @@ Czarodziej - postać, która uczy gracza różnych zaklęć i pomaga mu w walce 
 Handlarz - postać, która sprzedaje graczowi przedmioty, takie jak leki, jedzenie i narzędzia.
 Mieszkańcy wioski - różne postacie, z którymi gracz może porozmawiać, zdobyć informacje i wykonywać zadania, które oferują.
 Strażnicy - wrogie postacie, które chronią zamek maga i atakują gracza.
-Demoniczne stworzenia - potwory i demony, które atakują wioskę i muszą zostać pokonane przez gracza.
+Opętane wilki - wilki które kontroluje mroczny mag przy użyciu czarnej magii.
 Mroczny mag - główny przeciwnik gry, który mieszka w zamku i włada mrocznymi siłami nękającymi wioskę.
+
 
 
 Propozycje imion postaci:
@@ -61,7 +95,5 @@ Miejscowy przywódca - Leopold the Germany kid
 Kowal - Smith kowalski
 Czarodziej - Stachu Jones
 Handlarz - Kupiec korzenny emhyr var emreis 
-Mieszkańcy wioski - Agnieszka, Bartek, Cecylia, Dominik, Ewa, Feliks, Gabriela, Henryk
-Strażnicy - Conrad, Darius, Ethan, Gideon, Hector, Ivan, Kamil, Lukasz
-Demoniczne stworzenia - Azazel, Beelzebub, Belial, Mammon, Leviathan, Abaddon, Belphegor, Asmodeus
-Mroczny mag - Malphas, Agares, Aamon, Astaroth, Bael, Naberius, Raum, Vassago
+Mieszkańcy wioski - Agnieszka, Bartek
+Mroczny mag - Bezimienny
